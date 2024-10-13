@@ -688,7 +688,7 @@
                             Strategis
                             Smart City Kota Bogor</h2>
                         <button class="group mb-5"><span
-                                class="px-4 group-hover:text-primary group-hover:font-semibold">Lihat Selengkapnya
+                                class="px-4 group-hover:text-primary group-hover:font-semibold">Lihat Lebih Lanjut
                                 ></span></button>
                     </div>
                 </div>
