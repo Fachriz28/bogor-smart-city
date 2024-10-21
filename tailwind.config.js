@@ -18,6 +18,7 @@ export default {
             },
             colors: {
                 primary: "#242F9B",
+                gradient: "#646FD4",
                 dark: "#111827",
             },
         },
